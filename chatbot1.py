@@ -6,7 +6,7 @@ import sys
 import streamlit as st
 import openai
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+#os.environ["OPENAI_API_KEY"] = "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"
 
 from langchain_openai import ChatOpenAI
 from langchain_community.document_loaders import WebBaseLoader
